@@ -60,10 +60,10 @@
       "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1marketingautomationreporting.scwdp.zip"
     },
     "authCertificateBlob": {
-      "value": ""
+      "value": "5136AB32DE44E145C2EF2BDA2F8E43C5C7219B09.pfx"
     },
     "authCertificatePassword": {
-      "value": ""
+      "value": "Local@123"
     },
     "machineLearningServerConnectionString": {
       "value": ""
