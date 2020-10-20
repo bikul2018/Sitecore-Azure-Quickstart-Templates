@@ -3,61 +3,61 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "deploymentId": {
-      "value": ""
+      "value": "sc93xp"
     },
     "location": {
-      "value": ""
+      "value": "eastus"
     },
     "sitecoreAdminPassword": {
-      "value": ""
+      "value": "" // Value stored in key vault
     },
     "licenseXml": {
-      "value": ""
+      "value": "" // License file is stored in blob storage
     },
     "repAuthenticationApiKey": {
-      "value": ""
+      "value": "" //Vaue stored in key vault
     },
     "sqlServerLogin": {
-      "value": ""
+      "value": "scsql"
     },
     "sqlServerPassword": {
-      "value": ""
+      "value": "" // Value stored in key vault
     },
     "siMsDeployPackageUrl": {
       "value": ""
     },
     "cmMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_cm.scwdp.zip"
     },
     "cdMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_cd.scwdp.zip"
     },
     "prcMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_prc.scwdp.zip"
     },
     "repMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_rep.scwdp.zip"
     },
     "xcRefDataMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1referencedata.scwdp.zip"
     },
     "xcCollectMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1collection.scwdp.zip"
     },
     "xcSearchMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1collectionsearch.scwdp.zip"
     },
     "cortexProcessingMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1cortexprocessing.scwdp.zip"
     },
     "cortexReportingMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1cortexreporting.scwdp.zip"
     },
     "maOpsMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1marketingautomation.scwdp.zip"
     },
     "maRepMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_xp1marketingautomationreporting.scwdp.zip"
     },
     "authCertificateBlob": {
       "value": ""
