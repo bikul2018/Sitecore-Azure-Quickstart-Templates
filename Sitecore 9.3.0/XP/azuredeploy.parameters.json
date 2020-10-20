@@ -9,19 +9,19 @@
       "value": "eastus"
     },
     "sitecoreAdminPassword": {
-      "value": "Password@123" // Value stored in key vault
+      "value": "Password@123"
     },
     "licenseXml": {
       "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/license.xml" // License file is stored in blob storage
     },
     "repAuthenticationApiKey": {
-      "value": "DRB6mHZ5hvvmQGBTTw3KNp3EBwCEz3Ff" //Vaue stored in key vault
+      "value": "DRB6mHZ5hvvmQGBTTw3KNp3EBwCEz3Ff"
     },
     "sqlServerLogin": {
       "value": "scsql"
     },
     "sqlServerPassword": {
-      "value": "Password@123" // Value stored in key vault
+      "value": "Password@123"
     },
     "siMsDeployPackageUrl": {
       "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore.IdentityServer.5.0.0-r00277.scwdp.zip"
