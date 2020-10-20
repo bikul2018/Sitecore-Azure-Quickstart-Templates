@@ -12,7 +12,7 @@
       "value": "" // Value stored in key vault
     },
     "licenseXml": {
-      "value": "" // License file is stored in blob storage
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/license.xml" // License file is stored in blob storage
     },
     "repAuthenticationApiKey": {
       "value": "" //Vaue stored in key vault
@@ -24,7 +24,7 @@
       "value": "" // Value stored in key vault
     },
     "siMsDeployPackageUrl": {
-      "value": ""
+      "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore.IdentityServer.5.0.0-r00277.scwdp.zip"
     },
     "cmMsDeployPackageUrl": {
       "value": "https://sitecore93xpstorage.blob.core.windows.net/sitecorepackages/Sitecore 9.3.0 rev. 003498 (Cloud)_cm.scwdp.zip"
